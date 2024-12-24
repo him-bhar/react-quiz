@@ -33,3 +33,6 @@ Done. Now run:
 To debug a react project when you run it, use Ctrl+Shift and click on link to open browser in debug mode and code will stop and debug pointers.
 
 https://blog.jetbrains.com/webstorm/2017/01/debugging-react-apps/
+
+To build the project run command -
+npm run build
